@@ -1,0 +1,11 @@
+Name,Broker,Customer,Type,StartDate,EndDate,Deal,Comments,Status,Lumpsum,TotalDealAmount
+BRDealTwo62,2BrokerTwo,2CustomerTwo,AD,2014-05-11,2014-05-11,Y,Entered2,DRAFT,23,32323
+BRDealTwo63,3BrokerTwo,3CustomerTwo,AD,2014-05-11,2014-05-11,Y,Entered3,FROZEN,24,454
+BRDealTwo64,4BrokerTwo,4CustomerTwo,AD,2014-05-11,2014-05-11,Y,Entered4,FROZEN,2,654656
+BRDealTwo65,5BrokerTwo,5CustomerTwo,AD,2014-05-11,2014-05-11,Y,Entered5,FROZEN,5,7567568
+BRDealTwo66,6BrokerTwo,6CustomerTwo,AD,2014-05-11,2014-05-11,Y,Entered6,FROZEN,24,8768
+BRDealTwo67,7BrokerTwo,7CustomerTwo,DISPLAY,2014-05-11,2014-05-11,N,Entered7,FROZEN,24,678
+BRDealTwo68,8BrokerTwo,8CustomerTwo,DISPLAY,2014-05-11,2014-05-11,N,Entered8,DRAFT,24,678678
+BRDealTwo69,9BrokerTwo,9CustomerTwo,DISPLAY,2014-05-11,2014-05-11,N,Entered9,DRAFT,13,768678
+BRDealTwo70,10BrokerTwo,10CustomerTwo,DISPLAY,2014-05-11,2014-05-11,N,Entered10,DRAFT,4,678
+BRDealTwo71,11BrokerTwo,11CustomerTwo,DISPLAY,2014-05-11,2014-05-11,N,Entered11,DRAFT,23,67886

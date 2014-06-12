@@ -1,0 +1,31 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'D:\\External\\Installation\\nodejs\\\\node.exe',
+1 verbose cli   'D:\\External\\Installation\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'start' ]
+2 info using npm@1.4.3
+3 info using node@v0.10.26
+4 verbose node symlink D:\External\Installation\nodejs\\node.exe
+5 warn invalid config proxy=""
+6 warn invalid config Must be a full url with 'http://'
+7 verbose run-script [ 'prestart', 'start', 'poststart' ]
+8 info prestart Demo@0.0.1
+9 info start Demo@0.0.1
+10 verbose unsafe-perm in lifecycle true
+11 info Demo@0.0.1 Failed to exec start script
+12 error Demo@0.0.1 start: `node server.js`
+12 error Exit status 8
+13 error Failed at the Demo@0.0.1 start script.
+13 error This is most likely a problem with the Demo package,
+13 error not with npm itself.
+13 error Tell the author that this fails on your system:
+13 error     node server.js
+13 error You can get their info via:
+13 error     npm owner ls Demo
+13 error There is likely additional logging output above.
+14 error System Windows_NT 6.1.7601
+15 error command "D:\\External\\Installation\\nodejs\\\\node.exe" "D:\\External\\Installation\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "start"
+16 error cwd D:\External\Ganesh\Deals
+17 error node -v v0.10.26
+18 error npm -v 1.4.3
+19 error code ELIFECYCLE
+20 verbose exit [ 1, true ]

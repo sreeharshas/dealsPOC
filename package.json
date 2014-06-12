@@ -1,0 +1,28 @@
+{
+  "name": "Demo",
+  "version": "0.0.1",
+  "description": "Demo Application",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sreeharsha Shivalingaiah",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.1.0",
+    "fs-extra": "~0.5.0",
+    "underscore": "~1.4.4",
+    "colors": "~0.6.0-1",
+    "reload": "0.0.2"
+  },
+  "devDependencies": {
+    "testutil": "~0.4.0",
+    "superagent": "~0.12.4",
+    "reload": "0.0.1",
+    "supertest": "~0.5.1",
+    "chai": "~1.5.0"
+  }
+}

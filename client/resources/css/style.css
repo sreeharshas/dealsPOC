@@ -1,0 +1,73 @@
+.icon-user {
+    background-image: url(../images/user.png) !important;
+}
+
+.icon-add {
+    background-image: url(../images/add.png) !important;
+}
+
+.icon-mydelete {
+    background-image: url(../images/delete.png) !important;
+}
+
+.icon-myedit {
+    background-image: url(../images/edit.png) !important;
+}
+
+.x-ie6 .icon-user {
+    background-image: url(../images/user.gif) !important;
+}
+
+.x-ie6 .icon-add {
+    background-image: url(../images/add.gif) !important;
+}
+
+.x-ie6 .icon-delete {
+    background-image: url(../images/delete.gif) !important;
+}
+
+.icon-share {
+    background-image: url(../images/sharex.png) !important;
+}
+
+.icon-clone {
+    background-image: url(../images/clonex.png) !important;
+}
+
+.icon-sheet {
+    background-image: url(../images/pdf.png) !important;
+}
+
+.icon-action {
+    background-image: url(../images/action.png) !important;
+}
+
+.icon-select {
+    background-image: url(../images/select.png) !important;
+}
+
+.icon-import {
+    background-image: url(../images/import.png) !important;
+}
+
+.icon-export {
+    background-image: url(../images/export.png) !important;
+}
+
+.icon-cancel {
+    background-image: url(../images/cancel.png) !important;
+}
+
+.icon-save {
+    background-image: url(../images/save.png) !important;
+}
+
+.sort-desc {
+    background-image: url('../themes/images/default/grid/sort_desc.gif') !important;
+    background-position: 4px 7px !important;
+}
+
+.sort-asc {
+    background-image: url('../themes/images/default/grid/sort_asc.gif') !important;
+    background-position: 4px 7px !important;
+}

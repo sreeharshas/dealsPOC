@@ -1,0 +1,23 @@
+mongod --dbpath database
+
+use dealsDB
+
+db.createCollection("deals", { autoIndexID : true } )
+
+db.deals.ensureIndex( {"dealname" : 1},{unique: true,sparse:true})
+
+db.deals.insert(
+{
+   "dealname": "GRDealTwo1",
+   "brokername": "BrokerTwo",
+   "customername": "CustomerTwo",
+   "dealtype": "AD",
+   "dealstartdate": "2014-05-11",
+   "dealenddate": "2014-05-11",
+   "deal": "NULL",
+   "comments": "Test comments",
+   "status": "DRAFT",
+   "lumpsum": 3444,
+   "totaldealamount": 5555
+}
+)
